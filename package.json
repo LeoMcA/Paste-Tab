@@ -3,7 +3,7 @@
     "license": "BSD-3", 
     "author": "Leo McArdle", 
     "version": "0.1", 
-    "fullName": "paste-tab", 
+    "fullName": "Paste Tab", 
     "id": "jid1-APchUR5ZLmqkiw", 
-    "description": "an add-on to allow you to 'paste and go' on any page"
+    "description": "An add-on that allows one to open a URL in the clipboard in either the current or a new tab."
 }

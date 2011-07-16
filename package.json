@@ -1,8 +1,9 @@
 {
-  "name": "paste-tab",
-  "fullName": "paste-tab",
-  "description": "a basic add-on",
-  "author": "",
-  "license": "MPL 1.1/GPL 2.0/LGPL 2.1",
-  "version": "0.1"
+    "name": "paste-tab", 
+    "license": "BSD-3", 
+    "author": "Leo McArdle", 
+    "version": "0.1", 
+    "fullName": "paste-tab", 
+    "id": "jid1-APchUR5ZLmqkiw", 
+    "description": "an add-on to allow you to 'paste and go' on any page"
 }

@@ -2,7 +2,7 @@
     "name": "paste-tab", 
     "license": "BSD-3", 
     "author": "Leo McArdle", 
-    "version": "0.1", 
+    "version": "1.0", 
     "fullName": "Paste Tab", 
     "id": "jid1-APchUR5ZLmqkiw", 
     "description": "An add-on that allows one to open a URL in the clipboard in either the current or a new tab."
